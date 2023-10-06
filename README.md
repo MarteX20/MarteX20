@@ -5,6 +5,7 @@
   <a href="www.linkedin.com/in/artem-asauliak/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+        <img src="https://komarev.com/ghpvc/?username=MarteX20&style=flat-square&color=blue" alt=""/>  <!--Visulial. counter-->
 </div>
 
   <h1>
