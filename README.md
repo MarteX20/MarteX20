@@ -51,9 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarteX20&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=65%2CFD00FFD4%2CFFB300&border=EB442B&excludeDaysLabel=EBE900&currStreakNum=FFEC00&currStreakLabel=000000&dates=000000&sideLabels=000000&stroke=000000&ring=FFAC00&fire=FF9200)](https://git.io/streak-stats)
 
-<div id="stats" align="center">
- - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarteX20&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=65%2CFD00FFD4%2CFFB300&border=EB442B&excludeDaysLabel=EBE900&currStreakNum=FFEC00&currStreakLabel=000000&dates=000000&sideLabels=000000&stroke=000000&ring=FFAC00&fire=FF9200)](https://git.io/streak-stats)
-</div>
 
 
