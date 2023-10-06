@@ -26,7 +26,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read tech articles, coding, playing video games.
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Artem-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/artem-asauliak/))
+- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
