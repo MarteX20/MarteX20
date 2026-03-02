@@ -1,3 +1,26 @@
+
+
+Unità condensante esterna dotata di compressore DC inverter e un ventilatori inverter a variazione continua di velocità con prevalenza statica utile massima di 110 Pa e dispostivo di controllo di condensazione di serie. Gas refrigerante R410A, controllo a microprocessore con gestione ottimizzata del tempo di funzionamento dei compressori ai carichi parziali. Potenza frigorifera nominale 33,5 kW. Potenza termica massima 37,5 kW. Alimentazione elettrica 400V/3N/50Hz. - Eco Contributo RAEE 6,00 € per unità
+
+Unità interna di tipo cassette per installazione a soffitto (600x600) dotata di ventilatore inverter, pannello a filo e telecomando di serie, protocollo di comunicazione seriale CAN BUS. Valvola di espansione interna. Potenza frigorifera nominale 1500W. Potenza termica nominale 1800W. Alimentazione elettrica 230V/1/50Hz.
+
+Unità interna di tipo cassette per installazione a soffitto (600x600) dotata di ventilatore inverter, pannello a filo e telecomando di serie, protocollo di comunicazione seriale CAN BUS. Valvola di espansione interna. Potenza frigorifera nominale 1800W. Potenza termica nominale 2200W.
+
+Alimentazione elettrica 230V/1/50Hz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
